@@ -1,7 +1,5 @@
 {
-  "dependencies": {
-    "express": "*"
-  },
+  "dependencies": {},
   "scripts": {
     "start": "node index.js"
   }
